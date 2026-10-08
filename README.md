@@ -17,10 +17,11 @@ A place to turn learning into technical notes, justified decisions, and experime
 - **Planned tooling:** Python, uv, Ruff, and Pytest; introduced when the first code requires them.
 
 **[Automated Parking System](https://github.com/adrianibeaslara/Design-of-an-Automated-Vehicle-Parking-System-Using-a-Microcontroller)**  
-C firmware for Discovery and Nucleo boards: entry and exit gate control, parking occupancy, and driver guidance.
+My completed 2023–2024 bachelor thesis: a physical six-space parking prototype built with STM32L-DISCOVERY and NUCLEO-L152RE boards.
 
 - **In the source:** STM32 HAL, GPIO interrupts, timers/PWM, ultrasonic distance measurement, and an I²C LCD.
-- **Published scope:** board-specific firmware, architecture and hardware notes, and a host check for LCD formatting. The original Cube build project and wiring are still needed.
+- **Project evidence:** original prototype photos, pin maps, software flowcharts, and thesis-reported demonstrations. [See the prototype gallery](https://github.com/adrianibeaslara/Design-of-an-Automated-Vehicle-Parking-System-Using-a-Microcontroller/blob/main/docs/gallery.md).
+- **Published scope:** application sources and a host LCD check; the complete Cube build project and checked electrical schematics remain to be recovered.
 
 ### Current focus
 
