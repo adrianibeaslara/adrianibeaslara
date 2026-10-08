@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Adrián Ibeas Lara</title>
+  <desc id="desc">Agent engineering and embedded systems. A navy banner with a minimal connected-node illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1729"/><stop offset="1" stop-color="#162842"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8da2bd" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="240" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="16" fill="url(#grid)"/>
+  <rect x="42" y="45" width="4" height="148" rx="2" fill="#c5ef73"/>
+  <text x="68" y="78" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2" fill="#c5ef73">ADRIANIBEASLARA / GITHUB</text>
+  <text x="66" y="135" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="42" fill="#f1f5fb">Adrián Ibeas Lara</text>
+  <text x="68" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="21" fill="#a9bdd5">Agent engineering · Embedded systems</text>
+  <g fill="none" stroke="#6885a9" stroke-width="1.5">
+    <path d="M880 120H965M995 120H1080M980 105V65M980 135V175"/>
+    <path d="M880 120L940 65H965M880 120L940 175H965" stroke-opacity=".5"/>
+    <rect x="830" y="105" width="50" height="30" rx="7" fill="#12223a"/>
+    <rect x="1080" y="105" width="50" height="30" rx="7" fill="#12223a"/>
+    <rect x="965" y="35" width="30" height="30" rx="7" fill="#12223a"/>
+    <rect x="965" y="175" width="30" height="30" rx="7" fill="#12223a"/>
+  </g>
+  <circle cx="980" cy="120" r="15" fill="#c5ef73"/>
+  <circle cx="855" cy="120" r="3" fill="#8ca6c6"/>
+  <circle cx="1105" cy="120" r="3" fill="#8ca6c6"/>
+</svg>
